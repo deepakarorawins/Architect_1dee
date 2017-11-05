@@ -20,6 +20,7 @@ public class Tc_01 {
 		WebElement firstName=driver.findElement(By.xpath("//input[@name='firstName']"));
 		firstName.sendKeys("Rahul");
 		//adding a test comment
+		//adding a test comment2
 
 	}
 
